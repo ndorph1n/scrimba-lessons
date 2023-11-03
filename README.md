@@ -13,7 +13,7 @@
 
 ### Solo Project 1️⃣:
   <p>&emsp; Creating a digital business card using React. 
-  Introduction to JSX syntax and React components..</p>
+  Introduction to JSX syntax and React components.</p>
     <a href="https://ndorph1n.github.io/scrimba-lessons/digital-business-card/">View Demo</a> 
     
 ##### :camera: Screenshots
