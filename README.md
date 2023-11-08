@@ -12,11 +12,20 @@
 ## :star2: About the Project
 
 ### Solo Project 1️⃣:
-  <p>&emsp; Creating a digital business card using React. 
+  <p>&emsp; Creating a digital business card using React.
   Introduction to JSX syntax and React components.</p>
     <a href="https://ndorph1n.github.io/scrimba-lessons/digital-business-card/">View Demo</a> 
     
 ##### :camera: Screenshots
-<div align="left"> &emsp; <a href="https://ndorph1n.github.io/scrimba-lessons/digital-business-card/"><img src="https://raw.githubusercontent.com/ndorph1n/scrimba-lessons/master/digital-business-card/Solo%20Project%201.png" alt='image' width='250'/></a> </div>
+<div align="left"> &emsp; <kbd><a href="https://ndorph1n.github.io/scrimba-lessons/digital-business-card/"><img src="https://raw.githubusercontent.com/ndorph1n/scrimba-lessons/master/digital-business-card/Solo%20Project%201.png" alt='image' width='250'/></a></kbd> </div>
 <hr>
 
+
+### Lesson 2️⃣:
+  <p>&emsp; Airbnb Experience Clone using React.  Data for Card components is taken from an external JSON file.  <br />Introduction to Props in React.</p>
+    <a href="https://ndorph1n.github.io/scrimba-lessons/airbnb-clone/">View Demo</a> 
+    
+
+##### :camera: Screenshots
+<div align="left"> &emsp; <kbd><a href="https://ndorph1n.github.io/scrimba-lessons/airbnb-clone/"><img src="https://raw.githubusercontent.com/ndorph1n/scrimba-lessons/master/airbnb-clone/Lesson%202.png" alt='image' width='250'/></a></kbd> </div>
+<hr>
