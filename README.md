@@ -28,11 +28,20 @@
 <hr>
 
 
-### Solo Project 2️⃣:
+### Solo Project 3️⃣:
   <p>&emsp; Small Travel Journal site. This time data is taken by fetch request from external JSON Data Storage (<a href="https://jsonbin.io/">jsonbin.io</a>). <br />
   Learnt about State and Props more. And also for this project I used <a href="https://tailwindcss.com/">tailwindcss</a> framework.</p>
     <a href="https://ndorph1n.github.io/scrimba-lessons/travel-journal/">View Demo</a> 
     
 ##### :camera:Screenshots
 <div align="left"> &emsp; <kbd><a href="https://ndorph1n.github.io/scrimba-lessons/travel-journal/"><img src="https://raw.githubusercontent.com/ndorph1n/scrimba-lessons/master/travel-journal/Solo%20Project%202.png" alt='image' width='250'/></a></kbd> </div>
+<hr>
+
+
+### Solo Project 4️⃣:
+  <p>&emsp; Meme generator. Created with <a href="https://imgflip.com/api">Imgflip API</a>. In this project, I learned more about React hooks, controlled components, working with forms in React, went deeper into api. And a main thing - had a great time laughing at new memes/ 😄</p>
+    <a href="https://ndorph1n.github.io/scrimba-lessons/meme-generator/">View Demo</a> 
+    
+##### :camera:Screenshots
+<div align="left"> &emsp; <kbd><a href="https://ndorph1n.github.io/scrimba-lessons/meme-generator/"><img src="https://raw.githubusercontent.com/ndorph1n/scrimba-lessons/refs/heads/master/meme-generator/Solo%20Project%204.png" alt='image' width='250'/></a></kbd> </div>
 <hr>
